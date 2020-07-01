@@ -18,3 +18,8 @@ node@^14.5.0:
   integrity sha512-WxjuzzP5rI3yM/TUdajF4FzKUorUYIOtcNlsMh9a/JX5YsCBS/I2PdEe03F80Nnyfd9qZTjKnTV9XuQuuOYc6Q==
   dependencies:
     node-bin-setup "^1.0.0"
+
+node_module@^0.0.0:
+  version "0.0.0"
+  resolved "https://registry.yarnpkg.com/node_module/-/node_module-0.0.0.tgz#3dc7fd4cc25373b290cfde751ed59fa579cc36c0"
+  integrity sha1-Pcf9TMJTc7KQz951HtWfpXnMNsA=
